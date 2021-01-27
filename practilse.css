@@ -1,0 +1,11 @@
+h1 {
+  background: orange;
+}
+span {
+  font-size: 3rem;
+  background-color: green;
+  color: yellow;
+}
+.flower {
+  color: teal;
+}
